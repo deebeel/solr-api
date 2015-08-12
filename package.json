@@ -1,0 +1,23 @@
+{
+  "name": "solr-api",
+  "version": "1.0.0",
+  "description": "http solr api",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deebeel/solr-api.git"
+  },
+  "dependencies": {
+    "request": "^2.60.0"
+  },
+  "keywords": [
+    "solr",
+    "api"
+  ],
+  "author": "deebeel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deebeel/solr-api/issues"
+  },
+  "homepage": "https://github.com/deebeel/solr-api"
+}
